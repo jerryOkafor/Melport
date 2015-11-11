@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/melport/app/LocationsForPm.php</file>
+            <file>file:/C:/wamp/www/melport/resources/views/layouts/cmLayout.blade.php</file>
+            <file>file:/C:/wamp/www/melport/app/Http/Controllers/Front.php</file>
+            <file>file:/C:/wamp/www/melport/app/Http/Controllers/PmController.php</file>
+            <file>file:/C:/wamp/www/melport/public/js/cm_js.js</file>
+            <file>file:/C:/wamp/www/melport/resources/views/shared/pm_table.blade.php</file>
+            <file>file:/C:/wamp/www/melport/app/Http/routes.php</file>
+            <file>file:/C:/wamp/www/melport/resources/views/cmDashboard.blade.php</file>
+            <file>file:/C:/wamp/www/melport/app/Libraries/MelportCore.php</file>
+            <file>file:/C:/wamp/www/melport/app/Http/Controllers/CmController.php</file>
+        </group>
+    </open-files>
+</project-private>
